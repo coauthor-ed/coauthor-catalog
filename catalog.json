@@ -1,0 +1,186 @@
+{
+  "catalogVersion": 1,
+  "updatedAt": "2026-11-09",
+  "entries": [
+    {
+      "id": "atomic-foundations-ox-alpha",
+      "manifestUrl": "https://coauthor-ed.github.io/cbse-grade9-science/atomic-foundations-ox-alpha/manifest.json",
+      "series": "cbse-grade9-science",
+      "label": "checked",
+      "featured": false,
+      "addedAt": "2026-11-09",
+      "installs": 0
+    },
+    {
+      "id": "cells",
+      "manifestUrl": "https://coauthor-ed.github.io/cbse-grade9-science/cells/manifest.json",
+      "series": "cbse-grade9-science",
+      "label": "checked",
+      "featured": false,
+      "addedAt": "2026-11-09",
+      "installs": 0
+    },
+    {
+      "id": "diversity",
+      "manifestUrl": "https://coauthor-ed.github.io/cbse-grade9-science/diversity/manifest.json",
+      "series": "cbse-grade9-science",
+      "label": "checked",
+      "featured": false,
+      "addedAt": "2026-11-09",
+      "installs": 0
+    },
+    {
+      "id": "tissues",
+      "manifestUrl": "https://coauthor-ed.github.io/cbse-grade9-science/tissues/manifest.json",
+      "series": "cbse-grade9-science",
+      "label": "checked",
+      "featured": false,
+      "addedAt": "2026-11-09",
+      "installs": 0
+    },
+    {
+      "id": "mixtures",
+      "manifestUrl": "https://coauthor-ed.github.io/cbse-grade9-science/mixtures/manifest.json",
+      "series": "cbse-grade9-science",
+      "label": "checked",
+      "featured": false,
+      "addedAt": "2026-11-09",
+      "installs": 0
+    },
+    {
+      "id": "reproduction",
+      "manifestUrl": "https://coauthor-ed.github.io/cbse-grade9-science/reproduction/manifest.json",
+      "series": "cbse-grade9-science",
+      "label": "checked",
+      "featured": false,
+      "addedAt": "2026-11-09",
+      "installs": 0
+    },
+    {
+      "id": "sound",
+      "manifestUrl": "https://coauthor-ed.github.io/cbse-grade9-science/sound/manifest.json",
+      "series": "cbse-grade9-science",
+      "label": "checked",
+      "featured": false,
+      "addedAt": "2026-11-09",
+      "installs": 0
+    },
+    {
+      "id": "work-energy",
+      "manifestUrl": "https://coauthor-ed.github.io/cbse-grade9-science/work-energy/manifest.json",
+      "series": "cbse-grade9-science",
+      "label": "checked",
+      "featured": false,
+      "addedAt": "2026-11-09",
+      "installs": 0
+    },
+    {
+      "id": "democracy",
+      "manifestUrl": "https://coauthor-ed.github.io/cbse-grade9-sst/democracy/manifest.json",
+      "series": "cbse-grade9-sst",
+      "label": "checked",
+      "featured": false,
+      "addedAt": "2026-11-09",
+      "installs": 0
+    },
+    {
+      "id": "early-humans-gemini",
+      "manifestUrl": "https://coauthor-ed.github.io/cbse-grade9-sst/early-humans-gemini/manifest.json",
+      "series": "cbse-grade9-sst",
+      "label": "checked",
+      "featured": false,
+      "addedAt": "2026-11-09",
+      "installs": 0
+    },
+    {
+      "id": "elections",
+      "manifestUrl": "https://coauthor-ed.github.io/cbse-grade9-sst/elections/manifest.json",
+      "series": "cbse-grade9-sst",
+      "label": "checked",
+      "featured": false,
+      "addedAt": "2026-11-09",
+      "installs": 0
+    },
+    {
+      "id": "atmosphere-climate",
+      "manifestUrl": "https://coauthor-ed.github.io/cbse-grade9-sst/atmosphere-climate/manifest.json",
+      "series": "cbse-grade9-sst",
+      "label": "checked",
+      "featured": false,
+      "addedAt": "2026-11-09",
+      "installs": 0
+    },
+    {
+      "id": "earth-surface",
+      "manifestUrl": "https://coauthor-ed.github.io/cbse-grade9-sst/earth-surface/manifest.json",
+      "series": "cbse-grade9-sst",
+      "label": "checked",
+      "featured": false,
+      "addedAt": "2026-11-09",
+      "installs": 0
+    },
+    {
+      "id": "oceans-and-life",
+      "manifestUrl": "https://coauthor-ed.github.io/cbse-grade9-sst/oceans-and-life/manifest.json",
+      "series": "cbse-grade9-sst",
+      "label": "checked",
+      "featured": false,
+      "addedAt": "2026-11-09",
+      "installs": 0
+    },
+    {
+      "id": "state-society",
+      "manifestUrl": "https://coauthor-ed.github.io/cbse-grade9-sst/state-society/manifest.json",
+      "series": "cbse-grade9-sst",
+      "label": "checked",
+      "featured": false,
+      "addedAt": "2026-11-09",
+      "installs": 0
+    },
+    {
+      "id": "algorithms",
+      "manifestUrl": "https://coauthor-ed.github.io/cbse-grade9-maths/algorithms/manifest.json",
+      "series": "cbse-grade9-maths",
+      "label": "checked",
+      "featured": false,
+      "addedAt": "2026-11-09",
+      "installs": 0
+    },
+    {
+      "id": "sets",
+      "manifestUrl": "https://coauthor-ed.github.io/cbse-grade9-maths/sets/manifest.json",
+      "series": "cbse-grade9-maths",
+      "label": "checked",
+      "featured": false,
+      "addedAt": "2026-11-09",
+      "installs": 0
+    },
+    {
+      "id": "sequences-and-progressions",
+      "manifestUrl": "https://coauthor-ed.github.io/cbse-grade9-maths/sequences-and-progressions/manifest.json",
+      "series": "cbse-grade9-maths",
+      "label": "checked",
+      "featured": false,
+      "addedAt": "2026-11-09",
+      "installs": 0
+    },
+    {
+      "id": "analytical-epidemiology",
+      "manifestUrl": "https://coauthor-ed.github.io/college-epidemiology/analytical-epidemiology/manifest.json",
+      "series": "college-epidemiology",
+      "label": "checked",
+      "featured": false,
+      "addedAt": "2026-11-09",
+      "installs": 0
+    }
+  ],
+  "collections": [
+    {
+      "id": "featured",
+      "title": {
+        "en": "Featured"
+      },
+      "entries": []
+    }
+  ]
+}
