@@ -1,6 +1,43 @@
 {
   "catalogVersion": 1,
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-13",
+  "bundles": [
+    {
+      "id": "cbse-grade9-science",
+      "title": {
+        "en": "Class 9 Science"
+      },
+      "order": 1
+    },
+    {
+      "id": "cbse-grade9-maths",
+      "title": {
+        "en": "Class 9 Mathematics"
+      },
+      "order": 2
+    },
+    {
+      "id": "cbse-grade9-sst",
+      "title": {
+        "en": "Class 9 Social Science"
+      },
+      "order": 3
+    },
+    {
+      "id": "college-epidemiology",
+      "title": {
+        "en": "College Epidemiology"
+      },
+      "order": 4
+    },
+    {
+      "id": "meaning-map",
+      "title": {
+        "en": "The Meaning Map"
+      },
+      "order": 5
+    }
+  ],
   "entries": [
     {
       "id": "atomic-foundations-ox-alpha",
@@ -39,6 +76,15 @@
       "installs": 0
     },
     {
+      "id": "motion-and-forces",
+      "manifestUrl": "https://coauthor-ed.github.io/cbse-grade9-science/motion-and-forces/manifest.json",
+      "series": "cbse-grade9-science",
+      "label": "checked",
+      "featured": false,
+      "addedAt": "2026-11-11",
+      "installs": 0
+    },
+    {
       "id": "mixtures",
       "manifestUrl": "https://coauthor-ed.github.io/cbse-grade9-science/mixtures/manifest.json",
       "series": "cbse-grade9-science",
@@ -72,6 +118,60 @@
       "label": "checked",
       "featured": false,
       "addedAt": "2026-11-09",
+      "installs": 0
+    },
+    {
+      "id": "algebraic-expressions",
+      "manifestUrl": "https://coauthor-ed.github.io/cbse-grade9-maths/algebraic-expressions/manifest.json",
+      "series": "cbse-grade9-maths",
+      "label": "checked",
+      "featured": false,
+      "addedAt": "2026-11-11",
+      "installs": 0
+    },
+    {
+      "id": "linear-equations",
+      "manifestUrl": "https://coauthor-ed.github.io/cbse-grade9-maths/linear-equations/manifest.json",
+      "series": "cbse-grade9-maths",
+      "label": "checked",
+      "featured": false,
+      "addedAt": "2026-11-12",
+      "installs": 0
+    },
+    {
+      "id": "linear-polynomials",
+      "manifestUrl": "https://coauthor-ed.github.io/cbse-grade9-maths/linear-polynomials/manifest.json",
+      "series": "cbse-grade9-maths",
+      "label": "checked",
+      "featured": false,
+      "addedAt": "2026-11-11",
+      "installs": 0
+    },
+    {
+      "id": "algorithms",
+      "manifestUrl": "https://coauthor-ed.github.io/cbse-grade9-maths/algorithms/manifest.json",
+      "series": "cbse-grade9-maths",
+      "label": "checked",
+      "featured": false,
+      "addedAt": "2026-11-09",
+      "installs": 0
+    },
+    {
+      "id": "sequences-and-progressions",
+      "manifestUrl": "https://coauthor-ed.github.io/cbse-grade9-maths/sequences-and-progressions/manifest.json",
+      "series": "cbse-grade9-maths",
+      "label": "checked",
+      "featured": false,
+      "addedAt": "2026-11-09",
+      "installs": 0
+    },
+    {
+      "id": "world-of-numbers",
+      "manifestUrl": "https://coauthor-ed.github.io/cbse-grade9-maths/world-of-numbers/manifest.json",
+      "series": "cbse-grade9-maths",
+      "label": "checked",
+      "featured": false,
+      "addedAt": "2026-11-12",
       "installs": 0
     },
     {
@@ -138,30 +238,39 @@
       "installs": 0
     },
     {
-      "id": "algorithms",
-      "manifestUrl": "https://coauthor-ed.github.io/cbse-grade9-maths/algorithms/manifest.json",
-      "series": "cbse-grade9-maths",
+      "id": "problem-of-choice-grade9",
+      "manifestUrl": "https://coauthor-ed.github.io/cbse-grade9-sst/problem-of-choice-grade9/manifest.json",
+      "series": "cbse-grade9-sst",
       "label": "checked",
       "featured": false,
-      "addedAt": "2026-11-09",
+      "addedAt": "2026-11-11",
       "installs": 0
     },
     {
-      "id": "sets",
-      "manifestUrl": "https://coauthor-ed.github.io/cbse-grade9-maths/sets/manifest.json",
-      "series": "cbse-grade9-maths",
+      "id": "price-puzzle",
+      "manifestUrl": "https://coauthor-ed.github.io/cbse-grade9-sst/price-puzzle/manifest.json",
+      "series": "cbse-grade9-sst",
       "label": "checked",
       "featured": false,
-      "addedAt": "2026-11-09",
+      "addedAt": "2026-11-11",
       "installs": 0
     },
     {
-      "id": "sequences-and-progressions",
-      "manifestUrl": "https://coauthor-ed.github.io/cbse-grade9-maths/sequences-and-progressions/manifest.json",
-      "series": "cbse-grade9-maths",
+      "id": "personal-finances",
+      "manifestUrl": "https://coauthor-ed.github.io/cbse-grade9-sst/personal-finances/manifest.json",
+      "series": "cbse-grade9-sst",
       "label": "checked",
       "featured": false,
-      "addedAt": "2026-11-09",
+      "addedAt": "2026-11-11",
+      "installs": 0
+    },
+    {
+      "id": "startups",
+      "manifestUrl": "https://coauthor-ed.github.io/cbse-grade9-sst/startups/manifest.json",
+      "series": "cbse-grade9-sst",
+      "label": "checked",
+      "featured": false,
+      "addedAt": "2026-11-11",
       "installs": 0
     },
     {
@@ -171,6 +280,15 @@
       "label": "checked",
       "featured": false,
       "addedAt": "2026-11-09",
+      "installs": 0
+    },
+    {
+      "id": "meaning-map",
+      "manifestUrl": "https://coauthor-ed.github.io/meaning-map/meaning-map/manifest.json",
+      "series": "meaning-map",
+      "label": "checked",
+      "featured": false,
+      "addedAt": "2026-11-11",
       "installs": 0
     }
   ],
